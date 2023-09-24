@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eco-innovators/static/css/main.00e78b19.css",
-    "main.js": "/eco-innovators/static/js/main.32f6817b.js",
+    "main.js": "/eco-innovators/static/js/main.8dae83c9.js",
     "static/js/787.6dc5d524.chunk.js": "/eco-innovators/static/js/787.6dc5d524.chunk.js",
     "static/media/wallpaper.png": "/eco-innovators/static/media/wallpaper.c43c834866cada0d0a7c.png",
     "static/media/air-wall.jpg": "/eco-innovators/static/media/air-wall.ad12cdf6caea8861b004.jpg",
@@ -65,11 +65,11 @@
     "static/media/2-2.png": "/eco-innovators/static/media/2-2.c6ae49e7c8a3eeac8feb.png",
     "index.html": "/eco-innovators/index.html",
     "main.00e78b19.css.map": "/eco-innovators/static/css/main.00e78b19.css.map",
-    "main.32f6817b.js.map": "/eco-innovators/static/js/main.32f6817b.js.map",
+    "main.8dae83c9.js.map": "/eco-innovators/static/js/main.8dae83c9.js.map",
     "787.6dc5d524.chunk.js.map": "/eco-innovators/static/js/787.6dc5d524.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00e78b19.css",
-    "static/js/main.32f6817b.js"
+    "static/js/main.8dae83c9.js"
   ]
 }
